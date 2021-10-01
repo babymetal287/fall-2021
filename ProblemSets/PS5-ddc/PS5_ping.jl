@@ -11,7 +11,7 @@ using GLM
 
 # read in function to create state transitions for dynamic model
 #include("create_grids.jl")
-include("E://oklohoma//ECON6343//fall-2021-master//ProblemSets//PS5-ddc//create_grids.jl") 
+include("create_grids.jl") 
 
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::
